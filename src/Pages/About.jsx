@@ -241,7 +241,7 @@ const AboutPage = () => {
           <ProfileImage />
         </div>
 
-        <a href="/profile1.jpg">
+        <a href="">
         
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-16 cursor-pointer">
             {statsData.map((stat) => (
